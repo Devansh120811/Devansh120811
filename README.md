@@ -72,9 +72,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh120811&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Devansh120811&theme=dark" alt="GitHub Streak Stats"/>
-</div>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh120811&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
